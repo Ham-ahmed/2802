@@ -4,7 +4,7 @@ channel=HAZEM-WAHBA
 version=motor
 
 # اسم الملف الفعلي على السيرفر
-REMOTE_FILENAME="channels_backup_OpenBlackhole_20260227_HAZEMWAHBA.tar.gz"
+REMOTE_FILENAME="channels_HAZEMWAHBA.tar.gz"
 # اسم الملف الذي سيتم تحميله محلياً (للتبسيط)
 LOCAL_FILENAME="enigma2_backup.tar.gz"
 
